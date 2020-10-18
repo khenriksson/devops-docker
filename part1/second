@@ -1,0 +1,14 @@
+Script started on Sun Oct 18 20:44:38 2020
+                                                                                                                                                                                                        
+]133;D;0]1337;RemoteHost=kasperhenriksson@Kaspers-MacBook-Pro.local]1337;CurrentDir=/Users/kasperhenriksson/mooc-courses/devops-docker/part1
+[0m[27m[24m[J]133;Akasperhenriksson@Kaspers-MacBook-Pro part1 % ]133;B[K[137C[18/10/20 | 20:46:34][158D[?2004hdocker rmi f35646e83998 a7abf47ed907 7d83a6d8d42d bf756fb1ae65[62Drmi f35646e83998 a7abf47ed907 7d83a6d8d42d bf756fb1ae65       [55Ddocker images                                          [42Dps -a images[?2004l
+
+]133;C;REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           
+ 
+]133;D;0]1337;RemoteHost=kasperhenriksson@Kaspers-MacBook-Pro.local]1337;CurrentDir=/Users/kasperhenriksson/mooc-courses/devops-docker/part1
+[0m[27m[24m[J]133;Akasperhenriksson@Kaspers-MacBook-Pro part1 % ]133;B[K[137C[18/10/20 | 20:46:37][158D[?2004hdocker imagesrmi f35646e83998 a7abf47ed907 7d83a6d8d42d bf756fb1ae65[62Drmi f35646e83998 a7abf47ed907 7d83a6d8d42d bf756fb1ae65       [55Ddocker images                                          [42Dps -a [12Dcd ..       ls   cd ..docker ps -a[?2004l
+
+]133;C;CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           
+ 
