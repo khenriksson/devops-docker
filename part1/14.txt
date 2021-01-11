@@ -1,3 +1,27 @@
+devops-docker git:(master) docker container run devopsdockeruh/exec_bash_exercise
+Unable to find image 'devopsdockeruh/exec_bash_exercise:latest' locally
+latest: Pulling from devopsdockeruh/exec_bash_exercise
+1c6172af85ee: Pull complete
+b194b0e3c928: Pull complete
+1f5ec00f35d5: Pull complete
+93b1353672b6: Pull complete
+3d7f38db3cca: Pull complete
+21e102f9fe89: Pull complete
+d851ffed797c: Pull complete
+a45031e28c68: Pull complete
+ca3c1414856f: Pull complete
+02c74c9936fd: Pull complete
+ddb55f8ab0a8: Pull complete
+Digest: sha256:d38b6f6b0eed2880e25c9eb7f83f1cd016ffe3a56c9a3fec6e7bee480bf1ed0f
+
+
+
+➜  devops-docker git:(master) docker container exec -it sweet_show bash
+Error: No such container: sweet_show
+➜  devops-docker git:(master) docker container exec -it devopsdocker/exec_bash_exercise bash
+Error: No such container: devopsdocker/exec_bash_exercise
+➜  devops-docker git:(master) docker container exec -it sweet_shaw bash
+root@ba5aedf0f8f0:/usr/app# tail -f ./logs.txt
 Mon, 11 Jan 2021 12:59:20 GMT
 Mon, 11 Jan 2021 12:59:23 GMT
 Mon, 11 Jan 2021 12:59:26 GMT
